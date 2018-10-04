@@ -21,7 +21,7 @@
 #undef likely
 #undef unlikely
 #include <boost/date_time/posix_time/posix_time.hpp>
-#include "../../pdf/popplerdirect/workaround/poppler-0.64.0/goo/GooLikely.h"
+#include "../../pdf/popplerdirect/workaround/poppler-0.67.0/goo/GooLikely.h"
 
 #include <boost/filesystem/path.hpp>
 #include <boost/property_tree/ini_parser.hpp>
